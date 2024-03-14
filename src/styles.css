@@ -1,0 +1,22 @@
+/* styles.css */
+.jokes-container {
+    background-color: #f0f0f0; /* Set your desired background color here */
+    padding: 20px;
+  }
+  
+  .jokes-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .jokes-table th,
+  .jokes-table td {
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .jokes-table th {
+    background-color: #e0e0e0; /* Header background color */
+  }
+  
